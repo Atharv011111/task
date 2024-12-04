@@ -1,0 +1,162 @@
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.MvcApplicationPartsAssemblyInfo.cs
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.MvcApplicationPartsAssemblyInfo.cache
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.RazorAssemblyInfo.cache
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.RazorAssemblyInfo.cs
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\appsettings.Development.json
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\appsettings.json
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Task1.staticwebassets.runtime.json
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Task1.exe
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Task1.deps.json
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Task1.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Task1.pdb
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Azure.Core.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Azure.Identity.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Humanizer.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Mono.TextTemplating.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\System.CodeDom.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\System.Drawing.Common.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\System.Memory.Data.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\System.Runtime.Caching.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\System.Security.Permissions.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\System.Windows.Extensions.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\vita_practice\WebApi\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\staticwebassets.build.json
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\staticwebassets.development.json
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\staticwebassets\msbuild.Task1.Microsoft.AspNetCore.StaticWebAssets.props
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\staticwebassets\msbuild.build.Task1.props
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task1.props
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task1.props
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\staticwebassets.pack.json
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\scopedcss\bundle\Task1.styles.css
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\scopedcss\projectbundle\Task1.bundle.scp.css
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.csproj.Up2Date
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.dll
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\refint\Task1.dll
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.pdb
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+A:\vita_practice\WebApi\Task\Task1\obj\Debug\net7.0\ref\Task1.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\appsettings.json
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Task1.staticwebassets.runtime.json
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.RazorAssemblyInfo.cache
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.RazorAssemblyInfo.cs
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\staticwebassets\msbuild.Task1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\staticwebassets\msbuild.build.Task1.props
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task1.props
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task1.props
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\scopedcss\bundle\Task1.styles.css
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\scopedcss\projectbundle\Task1.bundle.scp.css
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.csproj.Up2Date
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\SHELD I HYPER\Desktop\Task\Task1\obj\Debug\net7.0\ref\Task1.dll
